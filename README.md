@@ -11,7 +11,7 @@ _Technology_ is **rising** and it is important to protect what we love. By **hel
 ##### Technological Ecosystem:
 Understanding the potential of the technology in your home is very important. A lot of people are content with not having internet in parts of their house, let alone in their yard. By adding just a couple wireless access points (ap), you can drastically change the outcome of the technological ecosystem in your home.
 * **Wireless Access Points:**
-For the most part, wireless ap's are **inexpensive** and can drastically improve the wifi areas around your house. On some units, you can get ranges of a 200' radius. By adding a couple outside your house and a couple outside, you can be sure you will have **wifi wherever you are**. They are also very customizable to where if the signal of one is stronger than another, it will **seamlessly** switch ap's without the consumer having to do anything from their end.
+For the most part, wireless ap's are **inexpensive** and can drastically improve the wifi areas around your house. On some units, you can get ranges of a 200' radius. By adding a couple inside your house and a couple outside, you can be sure you will have **wifi wherever you are**. They are also very customizable to where if the signal of one is stronger than another, it will **seamlessly** switch ap's without the consumer having to do anything from their end.
 
 **_________________________________________________________________________________________________________________** 
 ##### Protection & Prevention:
@@ -22,4 +22,4 @@ A switch **combines devices of similarity** together with a variety of tags. The
 **_________________________________________________________________________________________________________________** 
 **_________________________________________________________________________________________________________________** 
 ##### Conclusion:
-There are **simple measures** a homeowner can take that will allow them to make the most out of their technology. By **extending** your wifi range and adding managed switches, you are not only making a noticeable difference in their use of their technology but also taking the steps needed to keep their devices **safe**.
+There are **simple measures** a homeowner can take that will allow them to make the most out of their technology. By **extending** your wifi range and adding managed switches, you are not only making a noticeable difference in the use of technology but also taking the steps needed to keep their devices **safe**.
