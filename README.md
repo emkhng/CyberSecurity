@@ -7,7 +7,7 @@
 3. Prevent problems before they happen
 #### Target Audience:
 _Technology_ is **rising** and it is important to protect what we love. By **helping all ages** understand **simple knowledge** to keep their devices safe, we can **encourage the growth** of technology over time.
-**_________________________________________________________________________________________________________** 
+**___________________________________________________________________________________________________________________** 
 ##### Technological Ecosystem:
 Understanding the potential of the technology in your home is very important. A lot of people are content with not having internet in parts of their house, let alone in their yard. By adding just a couple wireless access points (ap), you can drastically change the outcome of the technological ecosystem in your home.
 * **Wireless Access Points:**
