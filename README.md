@@ -16,7 +16,7 @@ For the most part, wireless ap's are **inexpensive** and can drastically improve
 **_________________________________________________________________________________________________________________** 
 ##### Protection & Prevention:
 **Keeping devices and personal information safe** should be on the top of anyone's list. When a hacker can get into your network, it allows any devices connected to your network at **risk of being compromised**. A _managed switch_ is a good choice to keep from all of your devices getting hit at once. 
-* **Managed Switch:**
+* **Managed Switch:** 
 A switch **combines devices of similarity** together with a variety of tags. The tags work as a **wall** that in case of a compromised network, all your devices will not be affected. A Power-over-ethernet (POE) switch will allow you to **directly hardwire devices** with an ethernet connection. Some include cameras, access points, TVs, and printers. POE switches are nice because you do not have to worry about having a power connection close to the devices because they will be powered directly from the switch.
 
 **_________________________________________________________________________________________________________________** 
